@@ -1,0 +1,4 @@
+1.rezultatul ecuatilor este de tip float  indiferent de faptul ca e numar intreg care ar trebui sa de tip int.
+2.ecoatile mai mari are dificultate in a le rezolva
+3.cand are minus in prima parte de ecuatie in a doua plus ,calculeaza sa dea cu minus mar trebui sa faca tot posibilul sa fie cu plus
+
